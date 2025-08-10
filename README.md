@@ -6,7 +6,7 @@
 basepath
 
 ### command for static files generation (for prod build)
-`npm run deploy`
+`npm run predeploy`
 
 ### To run locally
 `npx next dev`     
